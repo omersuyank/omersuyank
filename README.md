@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  💻 Passionate about clean code, scalable systems, and creative problem solving.  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+</p>
+
+<p align="center">
+  💻 <b>Passionate about clean code, scalable systems, and creative problem solving.</b>  
 </p>
 
 ---
@@ -13,10 +17,12 @@
 - 🧠 Exploring **IoT**, **Computer Vision**, **Custom ML Models**  
 - 📱 Developing **mobile apps** with React Native / Flutter  
 - 🎯 Always learning and improving my craft  
+- ⚡ Fun fact: I love optimizing **complex workflows** into **simple solutions**  
 
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flask,python,java,cs,dotnet,mysql,postgresql,mssql,nginx,arduino,opencv,firebase,pandas,postman,git,github&perline=10" />
 </p>
@@ -30,6 +36,7 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omeruyanik&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeruyanik&theme=tokyonight" height="170"/>
@@ -37,6 +44,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeruyanik&layout=compact&theme=tokyonight&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omeruyanik&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -56,4 +67,4 @@
 
 ---
 
-⭐ **"Code, Learn, Share, Repeat."**
+⭐ <b>"Code, Learn, Share, Repeat."</b>
