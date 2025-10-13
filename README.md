@@ -52,6 +52,18 @@
 
 ---
 
+## 🗂️ Repository Overview  
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/omeruyanik/profile-badges/main/badge/repos.json&style=for-the-badge&logo=github&color=00BFFF" />
+</p>
+
+<p align="center">
+  🧩 <b>Includes private AI research, automation systems, and client projects.</b>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/omeruyanik/" target="_blank">
